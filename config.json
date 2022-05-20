@@ -1,0 +1,9 @@
+{
+"networks": ["", ""],
+"default_recipients": [],
+"rouge_ap_alert_recipients": ["xxx@cisco.com", "xxx@cisco.com"],
+"gateway_alert_recipients": ["xxx@cisco.com"],
+"webhook_name":"Test Webhook",
+"webhook_url":"https://test.com",
+"shared_secret":"shhh"
+}
